@@ -1,0 +1,142 @@
+h1{
+	font-family: "Quicksand";
+	text-align: center;
+	color: white;
+}
+
+h2{
+	font-family: "Quicksand";
+	text-align: center;
+	color: white;
+}
+
+input{
+	padding-left: 15px;
+	width: 400px;
+	height: 50px;
+	border-radius: 1em;
+	background-color: whitesmoke;
+	font-size: 18px;
+	font-family: Quicksand;
+}
+
+select{
+  padding-left: 15px;
+  width: 400px;
+  height: 50px;
+  border-radius: 1em;
+  background-color: whitesmoke;
+  font-size: 18px;
+  font-family: Quicksand;
+}
+
+label{
+	margin-left: 449px;
+	font-size: 20px;
+	font-family: Quicksand;
+}
+
+table {
+  font-family: "Quicksand";
+  border-collapse: collapse;
+  width: 50%;
+  margin-left: 324px;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: red;
+}
+
+table a{
+	text-decoration: none;
+}
+
+.search{
+  margin-left: 410px;
+  width: 400px;
+  height: 50px;
+  border-radius: 1em;
+  background-color: whitesmoke;
+  font-size: 18px;
+  font-family: Quicksand;
+}
+
+.submit{
+  margin-left: 0px;
+  width: 100px;
+  height: 50px;
+  border-radius: 1em;
+  background-color: whitesmoke;
+  font-size: 18px;
+  font-family: Quicksand;
+  margin-top: 10px;
+}
+
+.update{
+  position: absolute; 
+  bottom: -100pt;
+  right: 358pt; 
+  width: 400px;
+  height: 40pt;
+  font-size: 20px; 
+  font-family: Quicksand; 
+  background-color: #183c64; 
+  color: white;
+  border-radius: 1em;
+}
+
+.delete{
+  margin-left: 465px;
+  padding-left: 15px;
+  width: 400px;
+  height: 50px;
+  border-radius: 1em;
+  background-color: whitesmoke;
+  font-size: 18px;
+  font-family: Quicksand;
+}
+
+.confirm {
+  bottom: -50pt;
+  right: 370pt; 
+  width: 406px;
+  height: 40pt;
+  font-size: 20px; 
+  font-family: Quicksand; 
+  background-color: #183c64; 
+  color: white;
+  border-radius: 1em;
+  margin-bottom: 50px;
+}
+
+.confirm1 {
+  bottom: -40pt;
+  right: 540pt; 
+  width: 200px;
+  height: 40pt;
+  font-size: 20px; 
+  font-family: Quicksand; 
+  background-color: #183c64; 
+  color: white;
+  border-radius: 1em;
+  margin-bottom: 50px;
+}
+
+.confirm2 {
+  bottom: -40pt;
+  right: 350pt; 
+  width: 200px;
+  height: 40pt;
+  font-size: 20px; 
+  font-family: Quicksand; 
+  background-color: #183c64; 
+  color: white;
+  border-radius: 1em;
+  margin-bottom: 50px;
+}

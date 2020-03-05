@@ -1,0 +1,109 @@
+h1{
+	font-family: "Quicksand";
+	text-align: center;
+	color: white;
+}
+
+h2{
+	font-family: "Quicksand";
+	text-align: center;
+	color: white
+  ;
+}
+
+input{
+	padding-left: 15px;
+	width: 400px;
+	height: 50px;
+	border-radius: 1em;
+	background-color: whitesmoke;
+	font-size: 18px;
+}
+
+select{
+  padding-left: 15px;
+  width: 400px;
+  height: 50px;
+  border-radius: 1em;
+  background-color: whitesmoke;
+  font-size: 18px;
+}
+
+label{
+	margin-left: 449px;
+	font-size: 20px;
+}
+
+table {
+ font-size: 20px;
+  border-collapse: collapse;
+  width: 100%;
+  margin-left: 24px;
+}
+
+td, th {
+  border: 10px solid white;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+table a{
+	text-decoration: none;
+}
+
+.search{
+  margin-left: 410px;
+  width: 400px;
+  height: 50px;
+  border-radius: 1em;
+  background-color: whitesmoke;
+  font-size: 18px;
+}
+
+.submit{
+  margin-left: 20px;
+  width: 100px;
+  height: 50px;
+  border-radius: 1em;
+  background-color: whitesmoke;
+  font-size: 18px;
+}
+
+.update{
+  position: absolute; 
+  bottom: -100pt;
+  right: 358pt; 
+  width: 400px;
+  height: 40pt;
+  font-size: 20px; 
+  background-color: #183c64; 
+  color: white;
+  border-radius: 1em;
+}
+
+.delete{
+  margin-left: 465px;
+  padding-left: 15px;
+  width: 400px;
+  height: 50px;
+  border-radius: 1em;
+  background-color: whitesmoke;
+  font-size: 18px;
+}
+
+.confirm {
+  position: absolute; 
+  bottom: -330pt;
+  right: 355pt; 
+  width: 406px;
+  height: 40pt;
+  font-size: 20px; 
+  background-color: #183c64; 
+  color: white;
+  border-radius: 1em;
+  margin-bottom: 50px;
+}
