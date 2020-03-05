@@ -8,9 +8,10 @@
 	</head>
 	<body>
 		<div class="header">
-			<a href="index.php"><h3> INVENTORY </h3></a>
+		<h3> INVENTORY </h3></a>
 		</div>
 	<ul>
+		<li><a href="index.php">Home</a></li>
  		<li><a href="index.php?page=Product">Manage Product</a></li>
  		<li><a href="index.php?page=AddProd">Add Product</a></li>
  		<li><a href="index.php?page=Category">Category List</a></li>
