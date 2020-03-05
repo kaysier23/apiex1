@@ -31,7 +31,6 @@
 		<tr>
 			<td> <b>Name</b> </td>
 			<td> <b>Price</b> </td>
-			<td> <b>Description</b> </td>
 			<td> <b>Category</b> </td>
 		</tr>
 <?php 
@@ -41,7 +40,6 @@
 		<tr>
 			<td> <a href="index.php?page=Details&id=<?php echo $result['id'];?>"> <?php echo $result['name']; ?> </a> </td>
       		<td><?php echo $result['price']; ?> </td>
-     		<td><?php echo $result['description']; ?> </td>
       		<td><?php echo $result['category_name'];?> </td>
 		</tr>
 <?php
