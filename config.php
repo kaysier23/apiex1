@@ -15,7 +15,7 @@ $google_client->setClientId('539246690236-tvoad6op2k24t4010o2re4nd9v2kjq1n.apps.
 $google_client->setClientSecret('WpZooC_GLJZXb9zunI3SH828');
 
 //Set the OAuth 2.0 Redirect URI
-$google_client->setRedirectUri('https://kyzierexam.herokuapp.com/index.php');
+$google_client->setRedirectUri('https://kyzier.herokuapp.com/index.php');
 
 //
 $google_client->addScope('email');
